@@ -1,4 +1,4 @@
-baseURL = "https://happy-brattain-d1561e.netlify.app/"
+baseURL = "https://happy-brattain-d1561e.netlify.app/e5e9fa1ba31ecd1ae84f75caaa474f3a663f05f4/public/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hugo-theme-dimension"
