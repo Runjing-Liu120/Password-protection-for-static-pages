@@ -1,3 +1,6 @@
 [submodule "e5e9fa1ba31ecd1ae84f75caaa474f3a663f05f4/themes/hugo-theme-dimension"]
 	path = e5e9fa1ba31ecd1ae84f75caaa474f3a663f05f4/themes/hugo-theme-dimension
 	url = https://github.com/your-identity/hugo-theme-dimension.git
+[submodule "e5e9fa1ba31ecd1ae84f75caaa474f3a663f05f4/themes/--force"]
+	path = e5e9fa1ba31ecd1ae84f75caaa474f3a663f05f4/themes/--force
+	url = https://github.com/your-identity/hugo-theme-dimension.git
